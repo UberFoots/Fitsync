@@ -1,0 +1,1 @@
+export { default as CalorieIntake } from './CalorieIntakeContent';
